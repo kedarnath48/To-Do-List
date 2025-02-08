@@ -1,3 +1,3 @@
 # To-Do-List
 
-Developed a To-DO-List web application using HTML,CSS and Javascript
+Developed a To-Do-List web application using HTML,CSS and Javascript
